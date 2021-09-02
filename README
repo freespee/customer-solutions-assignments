@@ -1,9 +1,0 @@
-run `docker-compose up` in your terminal. It takes a little while to import the data, so be patient
-
-
-#Questions
-
-What was the average call length on november 1st 2008?
-Which dates did we enroll the most customers?
-Users can be connected to more than one Organisation, find the name of the user that is connected to more than one organisation. Which countries are those organisations in?
-Which customer have the most calls to swedish numbers that belong to our system?
